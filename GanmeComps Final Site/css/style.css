@@ -1,0 +1,144 @@
+
+/*
+    color: #0c6820;
+    color: #0c7b93;
+    color: #142850;
+
+    font-family: 'Lato', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Dancing Script', cursive;
+    */
+
+
+body{
+    background-color: #def7f6;
+    text-align: center;
+    color: #142850;
+    font-family: 'Lato', sans-serif;
+}
+h1{
+    color: #0c6820;
+    font-family: 'Libre Baskerville', serif;
+}
+h2{
+    color: #142850;
+    font-family: 'Libre Baskerville', serif;
+}
+h3{
+    color: #0c6820;
+    font-family: 'Libre Baskerville', serif;
+}
+p{
+    font-family: 'Lato', sans-serif;
+}
+a{
+    font-family: 'Lato', sans-serif;
+    color: #142850;
+}
+#nav{
+    background-color: #beebe9;
+
+}
+.topDiv{
+    background-color: #beebe9;
+}
+.middleDiv{
+    
+    background-color: #def7f6;
+    padding: 1px;
+}
+.infoDiv{
+    padding: 15px;
+    height: 125px;
+    background-image: linear-gradient(to right,#30aac5, #0a5b6d);
+}
+.Skills{
+    margin: 100px auto 100px auto;
+    padding: 150px auto 150px auto;
+    width: 40rem;
+}
+.leftskill{
+    text-align: left;
+}
+.rightskill{
+    text-align: right;
+}
+.Header{
+    font-family: 'Dancing Script', cursive;
+    font-size: 5rem;
+}
+hr{
+    margin: 25px auto 25px auto;
+    border-style: dotted none none none;
+border-width: 10px;
+width: 75px;
+}
+/*This is a temp photo please change to look pretty*/
+.Logo{
+    width: 42.5rem;
+    margin: 25px auto 25px auto;
+}
+.pc-img{
+    border-radius: 10%;
+    width: 10rem;
+    float: right;
+    margin-right: 20px;
+}
+.website-img{
+    border-radius: 10%;
+    width: 10rem;
+    float: left;
+    margin-left: 20px;
+}
+.copyRight{
+color: white;
+position: relative;
+top: 30px;
+}
+.websiteExampleLeft{
+    width: 30rem;
+    margin: 100px auto 100px auto;
+}
+.websiteExampleMiddle{
+    width: 22rem;
+    margin: 100px auto 100px auto;
+}
+.websiteExampleRight{
+    width: 22rem;
+    margin: 100px auto 100px auto;
+}
+
+.instagram{
+    margin: 20px;
+    font-size: 25px;
+}
+
+.discord{
+    margin: 20px;
+    font-size: 25px;
+}
+
+.twitter{
+    margin: 20px;
+    font-size: 25px;
+}
+.navbar-brand{
+    font-size: 25px;
+    font-weight: bold;
+}
+.prevWebs{
+    padding: 25px;
+}
+.rowmod{
+    width: 100%;
+}
+.nav-item{
+    padding: 0 2rem 0 2rem;
+}
+.nav-link{
+    font-size: 18px;
+}
+.title{
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
